@@ -21,11 +21,11 @@ This code represents a Text-Guided Generative-based Approach developed for the [
 In this work, we create a new dataset tailored to our specific requirements, leveraging the [COSMOS](https://github.com/shivangi-aneja/COSMOS) dataset as a foundation.
 
 You can find our training dataset in folder [generated_dataset](generated_dataset). 
- - The [dataset.txt](generated_dataset/sd_dataset.txt) file contains links to images stored on Google Drive, along with their corresponding annotations in the [sd_pairs.json](generated_dataset/sd_pairs.json) file. The annotation file includes captions and the relative path to each image.
+ - The [sd_dataset.txt](generated_dataset/sd_dataset.txt) file contains links to images stored on Google Drive, along with their corresponding annotations in the [sd_pairs.json](generated_dataset/sd_pairs.json) file. The annotation file includes captions and the relative path to each image.
 
 ### Evaluation Guide
 
--  Access to the [icmr2024_challenge.ipynb](icmr2024_challenge.ipynb) notebook. If necessary, modify the input folder path in the notebook according to your setup.
+-  To begin, please access the [icmr2024_challenge.ipynb](icmr2024_challenge.ipynb). If needed, adjust the input folder path within the notebook to suit your setup.
   
 **Note:** The input folder path should have the following structure:
 
@@ -37,10 +37,9 @@ You can find our training dataset in folder [generated_dataset](generated_datase
     │ ├── 2.jpg
     │ ├── ...jpg
 
-- Execute the first four sections of the notebook to set up the environment and define necessary functions.
+- Next, execute the first four sections of the notebook to initialize the environment and define essential functions.
 
- 
-- In the final section, execute the cells corresponding to the task you wish to experiment.
+- In the final section, proceed to execute the cells relevant to the task you wish to explore.
 
 ### Experimental Results
 
@@ -66,7 +65,7 @@ We utilize the `public_test_set`, consisting of 1000 samples, provided by the ch
 ---
 **Contact Us**
 
-If you have questions regarding the dataset or code, please email us at leanhthunk@gmail.com.
+If you have questions regarding the dataset or code, please email us at lathu21@clc.fitus.edu.vn.
 
 <!-- ### Citation
 If you utilize the code in your research or reference our paper, kindly include the following citation:
