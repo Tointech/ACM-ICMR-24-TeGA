@@ -3,7 +3,7 @@
 ### Description 
 This code represents a Text-Guided Generative-based Approach developed for the [ACM ICMR 2024 Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html). It is showcased in both Task 1 and Task 2.
 
-Our Paper: [Link]()
+<!-- Our Paper: [Link]() -->
 
 ### Overall Pipeline
 
