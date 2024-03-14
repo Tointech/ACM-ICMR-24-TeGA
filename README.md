@@ -5,7 +5,7 @@ This code represents a Text-Guided Generative-based Approach developed for the [
 
 Our Paper: [Link]()
 
-#### Overall Pipeline
+### Overall Pipeline
 
 **Task 1:** Detect miscontextualization in (Image, Caption1, Caption2) triplets. If captions describe the same objects but different events, it's out-of-context (OOC). If they describe the same event regardless of objects, it's not-out-of-context (NOOC).
 
@@ -16,7 +16,7 @@ Our Paper: [Link]()
 
 <img src="assets/task2.png">
 
-### Generated dataset
+### Generated Dataset
 
 In this work, we create a new dataset tailored to our specific requirements, leveraging the [COSMOS](https://github.com/shivangi-aneja/COSMOS) dataset as a foundation.
 
@@ -42,24 +42,32 @@ You can find our training dataset in folder [generated_dataset](generated_datase
  
 - In the final section, execute the cells corresponding to the task you wish to experiment.
 
-### Experimental Results:
+### Experimental Results
 
 #### Dataset
 We utilize the `public_test_set`, consisting of 1000 samples, provided by the challenge organizer for Task 1.
 
 ##### Effectiveness
 (1) Accuracy: *79.4%* 
+
 (2) Average Precision: *update later*
+
 (3) F1-Score: *update later*
 
 ##### Efficiency
 (1) Number of Trainable Parameters: *278811651*
+
 (2) GLOPS: *update later*
+
 (3) Model Size (MBs): *1063.58*
 
 **Note:** This experiment run on Google Colab Pro with A100 GPU.
 
 ---
+**Contact Us**
+
+If you have questions regarding the dataset or code, please email us at leanhthunk@gmail.com.
+
 <!-- ### Citation
 If you utilize the code in your research or reference our paper, kindly include the following citation:
 
