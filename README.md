@@ -37,9 +37,9 @@ You can find our training dataset in folder [generated_dataset](generated_datase
     │ ├── 2.jpg
     │ ├── ...jpg
 
-- Next, execute the first four sections of the notebook to initialize the environment and define essential functions.
+- Next, execute the first section `I. Init & Setup` of the notebook to initialize the environment and define essential functions.
 
-- In the final section, proceed to execute the cells relevant to the task you wish to explore.
+- In the last section `II. Execute`, proceed to execute the cells relevant to the task you wish to explore.
 
 ### Experimental Results
 
