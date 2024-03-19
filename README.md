@@ -49,14 +49,14 @@ We utilize the `public_test_set`, consisting of 1000 samples, provided by the ch
 ##### Effectiveness
 (1) Accuracy: *79.4%* 
 
-(2) Average Precision: *update later*
+(2) Average Precision: *75.4%*
 
-(3) F1-Score: *update later*
+(3) F1-Score: *72.4*
 
 ##### Efficiency
 (1) Number of Trainable Parameters: *278811651*
 
-(2) GLOPS: *update later*
+(2) Inference Time (s): **5311.27** (calculated for 1000 test samples in public test set)
 
 (3) Model Size (MBs): *1063.58*
 
