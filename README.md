@@ -83,8 +83,6 @@ If you utilize the code in your research or reference our paper, kindly include 
   booktitle = {Proceedings of the 2024 International Conference on Multimedia Retrieval},
   pages = {1294–1299},
   numpages = {6},
-  keywords = {cheapfake detection, computer vision, dataset, natural language inference, stable diffusion, text-guided image-to-image},
-  location = {, Phuket, Thailand, },
   series = {ICMR '24}
 }
 ```
