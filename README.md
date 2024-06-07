@@ -3,7 +3,7 @@
 ### Description 
 This code represents a Text-Guided Generative-based Approach developed for the [ACM ICMR 2024 Grand Challenge on Detecting Cheapfakes](https://detecting-cheapfakes.github.io/icmr-2024.html). It is showcased in both Task 1 and Task 2.
 
-<!-- Our Paper: [Link]() -->
+Our Paper: [Link](https://doi.org/10.1145/3652583.3657602)
 
 ### Overall Pipeline
 
@@ -67,16 +67,24 @@ We utilize the `public_test_set`, consisting of 1000 samples, provided by the ch
 
 If you have questions regarding the dataset or code, please email us at lathu21@clc.fitus.edu.vn.
 
-<!-- ### Citation
+### Citation
 If you utilize the code in your research or reference our paper, kindly include the following citation:
 
 ```
 @inproceedings{icmr2024tega,
-  title={TeGA: A Text-Guided Generative-based Approach in Cheapfake Detection},
-  author={Anh-Thu Le and Minh-Dat Nguyen and Anh-Duy Tran and Duc-Tien Dang-Nguyen and Minh-Son Dao},
-  booktitle={Proceedings of the 14th International Conference on Multimedia Retrieval (ICMR)},
-  year={2024},
-  pages={},
-  organization={ACM}
+  author = {Le, Anh-Thu and Nguyen, Minh-Dat and Dao, Minh-Son and Tran, Anh-Duy and Dang-Nguyen, Duc-Tien},
+  title = {TeGA: A Text-Guided Generative-based Approach in Cheapfake Detection},
+  year = {2024},
+  isbn = {9798400706196},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3652583.3657602},
+  doi = {10.1145/3652583.3657602},
+  booktitle = {Proceedings of the 2024 International Conference on Multimedia Retrieval},
+  pages = {1294–1299},
+  numpages = {6},
+  keywords = {cheapfake detection, computer vision, dataset, natural language inference, stable diffusion, text-guided image-to-image},
+  location = {, Phuket, Thailand, },
+  series = {ICMR '24}
 }
-``` -->
+```
