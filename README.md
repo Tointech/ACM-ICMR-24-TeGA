@@ -71,7 +71,7 @@ If you have questions regarding the dataset or code, please email us at lathu21@
 If you utilize the code in your research or reference our paper, kindly include the following citation:
 
 ```
-@inproceedings{icmr2024tega,
+@inproceedings{le2024tega,
   author = {Le, Anh-Thu and Nguyen, Minh-Dat and Dao, Minh-Son and Tran, Anh-Duy and Dang-Nguyen, Duc-Tien},
   title = {TeGA: A Text-Guided Generative-based Approach in Cheapfake Detection},
   year = {2024},
