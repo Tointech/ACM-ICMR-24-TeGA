@@ -47,11 +47,13 @@ You can find our training dataset in folder [generated_dataset](generated_datase
 We utilize the `public_test_set`, consisting of 1000 samples, provided by the challenge organizer for Task 1.
 
 ##### Effectiveness
-(1) Accuracy: *79.4%* 
+(1) Accuracy: *79.4%*
 
 (2) Average Precision: *75.4%*
 
 (3) F1-Score: *72.4%*
+
+For Task 2, we achieved an accuracy of 56.4% in the public test. 
 
 ##### Efficiency
 (1) Number of Trainable Parameters: *278811651*
@@ -59,6 +61,7 @@ We utilize the `public_test_set`, consisting of 1000 samples, provided by the ch
 (2) Inference Time (s): *5311.27* (calculated for 1000 test samples in public test set)
 
 (3) Model Size (MBs): *1063.58*
+
 
 **Note:** This experiment run on Google Colab Pro with A100 GPU.
 
